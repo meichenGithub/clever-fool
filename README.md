@@ -1,4 +1,4 @@
-# SB
-A Spring Boot test Project
+# Clever-fool
+做一个聪明的傻瓜
 
-This is my test project
+Open Resource test
